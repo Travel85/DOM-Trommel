@@ -1,5 +1,5 @@
 # Übung: DOM-Trommel
 
-## Ho to
+## How-to
 
 1. `index.html` ausführen
